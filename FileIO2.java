@@ -53,6 +53,7 @@ public class FileIO2 {
 			lines.add(temp);
 		}
 		
+        in.close();
 		return lines;
 	}
     

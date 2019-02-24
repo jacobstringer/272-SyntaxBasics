@@ -22,6 +22,7 @@ public class FileIO {
 			lines.add(temp);
 		}
 		
+        in.close();
 		return lines;
 	}
     
