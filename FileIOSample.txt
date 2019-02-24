@@ -1,0 +1,4 @@
+I'm a File! Here's some numbers:
+1000 150 160 8
+1.5 -1.777
+And another string. Let's have some fun!
